@@ -1,6 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# [Turfwar](https://turfwar.taxborn.com)
+This is just a project for a friendly work competition
 
-## Getting Started
+## How to run yourself?
+**These instructions are from [NextJS](https://nextjs.org)'s create-next-app README**
 
 First, run the development server:
 
